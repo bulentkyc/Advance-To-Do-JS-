@@ -87,7 +87,7 @@ let boilerPlateStyles = {
     footer:{
         width: '100vw',
         height: '50px',
-        backgroundColor: 'coral'
+        backgroundColor: 'lavender'
     }
 }
 
